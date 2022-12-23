@@ -59,3 +59,8 @@ input:hover {
     transition: all 1s ease;
 }
 
+@media screen and (min-width: 320px) {
+    .add-task-button {
+        margin-top: 20px;
+    }
+}
